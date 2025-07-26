@@ -17,7 +17,6 @@ Here's a glimpse of the interactive Power BI dashboard, showcasing key marketing
 
 ![Dashboard Screenshot](Dashboards/Overview.jpg)
 
-*(Replace `your_dashboard_screenshot.png` with the actual filename of your screenshot in the 'Dashboard Screenshots' folder)*
 
 ## Technologies Used
 
