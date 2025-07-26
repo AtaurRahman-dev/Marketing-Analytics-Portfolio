@@ -15,7 +15,7 @@ This comprehensive solution covers the entire data analytics pipeline: from raw 
 
 Here's a glimpse of the interactive Power BI dashboard, showcasing key marketing performance indicators and customer insights:
 
-![Dashboard Screenshot](Dashboard%20Dashboards/Overview.jpg)
+![Dashboard Screenshot](Dashboards/Overview.jpg)
 
 *(Replace `your_dashboard_screenshot.png` with the actual filename of your screenshot in the 'Dashboard Screenshots' folder)*
 
